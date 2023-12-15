@@ -1,0 +1,36 @@
+.text-heading {
+  font-family: "Martian Mono";
+  font-size: 80px;
+  font-weight: 700;
+}
+body {
+  /* font-family: "Roboto Mono"; */
+  color: white;
+  font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Amatic SC', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Martian Mono', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Source Sans 3', sans-serif;
+}
+
+.home {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(../imgs/patrick-tomasso-QMDap1TAu0g-unsplash.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.btn{
+  width: 200px;
+  height: 60px;
+  background-color: #09c;
+  color: white; 
+}
+.btn:hover{
+  background-color: white;
+  color: #09c; 
+}
